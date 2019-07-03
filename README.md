@@ -11,17 +11,18 @@ This script attempts to replicate this functionality for some of the possible di
 3. It's convenient to have the script automatically launch at startup. This can be done by using Win+R to run the "shell:startup" command, and then adding a shortcut to the script to the directory that opens.
 
 ## Supported keys
-Alt+E -> acute (á, Á)
-Alt+I -> circumflex (â, Â)
-Alt+N -> tilde (ñ, Ñ)
-Alt+U -> umlaut (ü, Ü)
+* Alt+E -> acute (á, Á)
+* Alt+I -> circumflex (â, Â)
+* Alt+N -> tilde (ñ, Ñ)
+* Alt+U -> umlaut (ü, Ü)
 
-Alt+Ctrl+Down  -> Media pause
-Alt+Ctrl+Right -> Media next
-Alt+Ctrl+Left  -> Media previous
+
+* Alt+Ctrl+Down  -> Media pause
+* Alt+Ctrl+Right -> Media next
+* Alt+Ctrl+Left  -> Media previous
 
 ## Credits
-This script is really just a simplified version of a script found on this blogpost by Aaron Gustafson:
+This script is really just a simplified version of a script found on this blogpost by Aaron Gustafson:  
 https://www.aaron-gustafson.com/notebook/mac-like-special-characters-in-windows/
 
 He based his code in turn on a post by Veil on the AHK user forums.
