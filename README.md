@@ -8,7 +8,7 @@ This script attempts to replicate this functionality for some of the possible di
 ## How to use
 1. Download and install AutoHotKey for Windows from https://www.autohotkey.com/
 2. Once AHK is installed, double-clicking the script should launch it. The script will run in the background and can be controlled from the tray.
-3. It's convenient to have the script automatically launch at startup. This can be done by using Win+R to run the "shell:startup" command, and then adding a shortcut to the script to the directory that opens.
+3. It's convenient to have the script automatically launch at startup. This can be done by using Win+R to run the "shell:startup" command to open the current user's Startup folder, and then creating a shortcut to the script there.
 
 ## Supported keys
 * Alt+E -> acute (á, Á)
